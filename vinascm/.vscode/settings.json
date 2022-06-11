@@ -1,0 +1,47 @@
+{
+    "open-in-browser.default": "chrome",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "test",
+            "username": "test",
+            "password": "test",
+            "connectionTimeout": 60,
+            "name": "MySQL"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQL",
+            "database": "test",
+            "username": "test",
+            "password": "test",
+            "connectionTimeout": 60
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "database_contact",
+            "database": "entry_details",
+            "username": "test",
+            "password": "yest",
+            "connectionTimeout": 50
+        }
+    ]
+}

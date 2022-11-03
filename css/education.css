@@ -1,0 +1,45 @@
+/*Education Section */
+
+
+#container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 450px;
+    margin: 20px;
+    margin-left: 530px;
+    margin-right: 120px;
+    padding-top: 1em;
+   
+    
+    
+  }
+  .block {
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+    border: 2px solid; color: black;
+    border: 10px solid  lightgrey;
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 3px 4px 5px 6px;
+    background: white;
+  
+   
+    
+  }
+  
+  
+  
+  h1{
+    padding: 20px;
+    margin: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    
+    
+  }

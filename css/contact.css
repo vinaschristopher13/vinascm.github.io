@@ -1,0 +1,80 @@
+
+/* Contact Section */
+#contact{
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    
+   
+}
+
+.form{
+    display:flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 20px 0px;
+    border-radius: 10px;
+    background-color: #111111;
+    padding: 20px;
+    
+}
+.textarea{
+  /* width: 341px; height: 204px; */
+  height: 175px;
+  width: 274px;
+  
+  
+}
+
+.input{
+    padding: 12px;
+    margin: 15px;
+    width: 97%;
+    border: none;
+    outline: none;
+    
+}
+
+h4{
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+#msg{
+    width: 20%;
+    padding: 10px;
+    margin: 15px;
+    border: none;
+    outline: none;
+}
+#send{
+    align-content: center;
+    padding: 15px;
+    width: 15%;
+    margin: 40px;
+    border: none;
+    outline: none;
+   
+}
+
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 15px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 90px;
+    resize: vertical;
+  }
+
+ 
+
+  

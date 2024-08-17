@@ -33,14 +33,14 @@
     box-sizing: border-box;
   }
   #images{
-    display: flex;
-    flex-direction: column;
-    box-sizing: border-box;
-    background-color: rgba(0, 0, 0, 0.9);
-    color:white;
-    padding: 20px;
-    
-  }
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.9);
+  color:white;
+  padding: 20px;
+  
+}
   
   
   h4{
